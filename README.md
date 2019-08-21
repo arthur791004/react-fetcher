@@ -1,5 +1,8 @@
 # React Fetcher
 
+[![Travis][build-badge]][build]
+[![Coveralls][coveralls-badge]][coveralls]
+
 Use native fetch via react hooks for controlling RESTful API like [Apollo](https://www.apollographql.com/)
 
 ---
@@ -386,3 +389,8 @@ export default render;
 ## License
 
 MIT
+
+[build-badge]: https://img.shields.io/travis/arthur791004/react-fetcher/master.png?style=flat-square
+[build]: https://travis-ci.org/arthur791004/react-fetcher
+[coveralls-badge]: https://img.shields.io/coveralls/arthur791004/react-fetcher/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/arthur791004/react-fetcher
